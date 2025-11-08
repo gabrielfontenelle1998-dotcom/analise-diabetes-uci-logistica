@@ -1,6 +1,8 @@
-# analise-diabetes-uci-logistica
+analise-diabetes-uci-logistica
 Projeto de Classificação de Diabetes usando Regressão Logística e SMOTE no Dataset UCI. 
-# 🩺 Projeto de Classificação de Diabetes: Análise e Otimização do UCI Health Indicators
+Projeto de Classificação de Diabetes: Análise e Otimização do UCI Health Indicators
+
+**Trabalho feito para treinamento e estudos na aréa. Utilizei uma IA para me auxiliar e ensinar enquanto fazia o projeto.**
 
 1. Objetivo do Projeto:
   Este projeto consiste na construção de um modelo de Machine Learning (ML) para **prever a presença de Diabetes** (Classificação Binária) em pacientes, utilizando dados de indicadores de saúde do **CDC Diabetes Health Indicators Dataset (UCI)**.  
